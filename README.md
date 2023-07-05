@@ -1,4 +1,4 @@
-# income_expense
+# expense_tracker_app
 
 A new Flutter project.
 
@@ -17,11 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <P>
-  <img src="https://github.com/dharmishthamakwana/income_expense_app/assets/114208599/0042552f-3f34-4355-9b7f-aedc5adff88d"width=30%height=35%>
-  <img src="https://github.com/dharmishthamakwana/income_expense_app/assets/114208599/0fcc2c56-85ad-44d5-9e75-6d2fc3dce5b3"width=30%height=35%>
-  <img src="https://github.com/dharmishthamakwana/income_expense_app/assets/114208599/fb5351f8-7d4d-4119-b951-7b90eda1a679"width=30%height=35%>
-  <img src="https://github.com/dharmishthamakwana/income_expense_app/assets/114208599/4a975087-9254-4186-9a9c-34c7367076a6"width=30%height=35%>
-   <img src="https://github.com/dharmishthamakwana/income_expense_app/assets/114208599/821ee9e8-83e6-4b45-8dac-054293944c7b"width=30%height=35%>
+  <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/0042552f-3f34-4355-9b7f-aedc5adff88d"width=30%height=35%>
+  <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/0fcc2c56-85ad-44d5-9e75-6d2fc3dce5b3"width=30%height=35%>
+  <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/fb5351f8-7d4d-4119-b951-7b90eda1a679"width=30%height=35%>
+  <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/4a975087-9254-4186-9a9c-34c7367076a6"width=30%height=35%>
+   <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/821ee9e8-83e6-4b45-8dac-054293944c7b"width=30%height=35%>
  </P>
 
 
