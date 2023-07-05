@@ -22,5 +22,4 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/ec01cceb-e23e-4b98-8650-941cc099a5f8"width=30%height=35%>
    <img src="https://github.com/dharmishthamakwana/expense_tracker_app/assets/114208599/beeb212a-6f4c-4053-a05a-1747ad3d03e2"width=30%height=35%>
  </P>
-https://github.com/dharmishthamakwana/income_expense_app/assets/114208599/82073e29-ccef-4833-8768-b10aae858fde
 
